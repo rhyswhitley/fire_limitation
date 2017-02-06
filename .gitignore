@@ -88,7 +88,11 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# big data
+# datasets
 *.csv
-*.csv.gz
+*.gz
 *.nc
+*.db
+
+# mac stuff
+.DS_Store
