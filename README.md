@@ -18,5 +18,5 @@ netCDF4 will also be required to run prepare_data, and matplotlib to perform plo
 
 ## Reproducing "shifts in global fire regimes due to emerging trends in bioclimatic and human drive"
 
-This is run using the [Tree Moisture](https://github.com/rhyswhitley/fire_limitation/tree/TreeMoisture/notebooks) branch. 
+This is run using the [paper1_bayes](https://github.com/rhyswhitley/fire_limitation/tree/paper1_bayes/notebooks) branch. 
 To run with the original data, please contact [douglas.i.kelley@gmail.com](mailto:douglas.i.kelley@gmail.com).
